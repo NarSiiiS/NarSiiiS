@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narsiiis&show_icons=true&theme=vue-dark&locale=en" alt="narsiiis" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" alt="narsiiis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=narsiiis&show_icons=true&theme=vue-dark&locale=en" alt="narsiiis" /></p>
