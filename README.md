@@ -70,4 +70,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/NarSiiiS/NarSiiiS/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/NarSiiiS/NarSiiiS/output/snake.svg" alt="Snake animation" />
