@@ -66,3 +66,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=NarSiiiS&&style=flat-square" align="center" />
 </div>  
+
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/NarSiiiS/NarSiiiS/blob/output/snake.svg" alt="Snake animation" />
