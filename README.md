@@ -59,8 +59,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hf5viryd5ngws37byhpgnmypv4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
-
 ###
 
 <div align="center">
@@ -72,8 +70,8 @@
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
-  <img alt="github-snake" src="snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarSiiiS/NarSiiiS/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarSiiiS/NarSiiiS/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NarSiiiS/NarSiiiS/output/snake.svg" />
 </picture>
 </div>
